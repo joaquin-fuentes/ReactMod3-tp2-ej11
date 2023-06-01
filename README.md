@@ -6,7 +6,7 @@ En este repositorio se encuentra el Ejercicio 11 del Trabajo Practico Numero 2 d
 - npm install
 - npm run dev
 
-- O tambien puede ingresar al siguiente link de netlify con el proyecto ya subido: https://react-tp1-ej10-joaquinfuentes.netlify.app/
+- O tambien puede ingresar al siguiente link de netlify con el proyecto ya subido:
 
 # Integrantes del proyecto
 Fuentes Joaquín Alberto
