@@ -8,7 +8,7 @@ const App = () => {
   return (
     <>
      <Header></Header>
-     <Container className="mainPage my-5">
+     <Container className="mainPage my-5 border p-0">
         <Formulario>
 
         </Formulario>

@@ -1,9 +1,10 @@
 import { Form, Row, Col } from "react-bootstrap"
+import ListaNoticias from "./ListaNoticias";
 
 const Formulario = () => {
     return (
-        <Form className="border p-5">
-            <Form.Group as={Row} className="mb-3" controlId="formHorizontalEmail">
+        <Form className="p-0">
+            <Form.Group as={Row} className=" p-5" controlId="formHorizontalEmail">
                 <Form.Label column sm={4} className="text-center">
                     Buscar por categoria:
                 </Form.Label>
@@ -16,7 +17,8 @@ const Formulario = () => {
                     </Form.Select>
                 </Col>
             </Form.Group>
-            
+            <hr></hr>
+            <ListaNoticias></ListaNoticias>
         </Form>
     );
 };
